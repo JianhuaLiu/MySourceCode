@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/hibernate-core"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/hikaricp"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/spring-aop"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/spring-context"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/spring-orm"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/spring-test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/struts2-core"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/struts2-spring"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="libs/commons-io-2.2.jar"/>
+	<classpathentry kind="lib" path="libs/jodconverter-core-3.0-beta-4.jar"/>
+	<classpathentry kind="lib" path="libs/juh-3.2.1.jar"/>
+	<classpathentry kind="lib" path="libs/jurt-3.2.1.jar"/>
+	<classpathentry kind="lib" path="libs/ridl-3.2.1.jar"/>
+	<classpathentry kind="lib" path="libs/unoil-3.2.1.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
